@@ -2,5 +2,7 @@
 Restaurant with GET and POST API
 
 Pre-requisites (npm install --save "npm-package-name" will save to your package.json file)
+</br>
 ^ NOTE: These pre-requisite npm packages are all listed in the package.json file. 
+</br>
 You can install them once you clone this repo with the command "npm install"
